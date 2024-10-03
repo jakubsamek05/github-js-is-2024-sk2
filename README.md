@@ -9,3 +9,7 @@ Datum a čas provedení změny: 2024-10-03, 13:00
 ## Změna provedená přímo na GitHubu
 Datum a čas provedení změny: 2024-10-03, 13:14
 Jakub Samek
+
+
+## Další změna provedená na GitHubu
+Datum a čas provedení změny: 2024-10-03, 13:18
