@@ -19,10 +19,6 @@ while (again == "a")
     }
 
     // Výpis vstupní hodnoty
-    Console.WriteLine("\n\n============================");
-    Console.WriteLine("Uživatel zadal: {0}", number);
-    Console.WriteLine("============================\n\n");
-
     int suma = 0;
     int multi = 1;
     int numberBackup = number;
