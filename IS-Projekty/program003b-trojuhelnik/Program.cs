@@ -4,7 +4,7 @@ while(again == "a") {
             Console.Clear();
             Console.WriteLine("****************************");
             Console.WriteLine("******* Trojúhelník ********");
-            Console.WriteLine("******* Filip Osička *******");
+            Console.WriteLine("******* Jakub Samek  *******");
             Console.WriteLine("****************************");
             Console.WriteLine();
             Console.WriteLine();
