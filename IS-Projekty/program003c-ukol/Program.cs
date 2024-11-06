@@ -1,9 +1,4 @@
-﻿using System;
-
-class Program
-{
-    static void Main()
-    {
+﻿
         string again = "a";
         while (again == "a")
         {
@@ -42,5 +37,3 @@ class Program
             Console.WriteLine("Program můžete opakovat stiskem klávesy 'a'");
             again = Console.ReadLine();
         }
-    } 
-}
